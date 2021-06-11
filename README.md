@@ -22,7 +22,7 @@ In the end, I only use the ESP8266 and a servo with feedback, but more details w
 12. [7x white cable ties](https://www.amazon.de/dp/B07JMKK66N)
 13. [Optional: Crimping tool for cable lugs](https://www.amazon.de/gp/product/B07QMHNKW3)
 14. [Optional: Crimping tool Dupont Set](https://www.amazon.de/dp/B078K9DT69/)
-15. 3D printer for servo mount part
+15. 3D printer for [servoHolder.stl](https://github.com/julisa99/IKEAPS2014/blob/main/servoHolder.stl)
 
 ## Preparation
 Remove the white plastic spool from the frame of the lamp (see graphic) and cut the cord so that one side of the cord is longer than the other. We will knot the longer side to the sewing thread spool later. You can make the shorter side even shorter, because one cord with ball will be decoration.
@@ -55,7 +55,7 @@ I screwed the sewing thread spool to the black circular servo horn with two smal
 <img src="https://user-images.githubusercontent.com/8758907/121747320-84e8f000-cb07-11eb-894a-9f0c07405b76.png" width="600" align="center">
 </p>
 
-I then screwed the motor to the aluminum servo holder I bought and then made my own 3D model where I screwed the servo holder to it. My 3D model consists of a rod with two slots at the ends, where a cable tie is attached, which then holds on the frame of the lamp. This makes it easy to remove the motor at any time. 
+I then screwed the motor to the aluminum servo holder I bought and then made my own 3D model [servoHolder.stl](https://github.com/julisa99/IKEAPS2014/blob/main/servoHolder.stl) where I screwed the servo holder to it. My 3D model consists of a rod with two slots at the ends, where a cable tie is attached, which then holds on the frame of the lamp. This makes it easy to remove the motor at any time. 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/8758907/121748065-aac2c480-cb08-11eb-9b6b-41345d6445e3.jpg" width="600" align="center">
 </p>
