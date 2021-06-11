@@ -71,7 +71,7 @@ In order to control the ESP8266, the following address must be added in the Ardu
 
 For communication with Alexa I use the library "espalexa" with version 2.4.7. There is a small bug, which is fixed, if in line 197 in Espalexa.h `arg(0)` is changed to `argName(0)`.
 
-In line 5 and 6 of IKEAPS2014.ino you have to enter your access data for your wifi. After that you can upload the code to your microcontroller. After that you can ask Alexa to search for new devices and you should find the device "star".
+In line 5 and 6 of [IKEAPS2014.ino](https://github.com/julisa99/IKEAPS2014/blob/main/IKEAPS2014.ino) you have to enter your access data for your wifi. After that you can upload the code to your microcontroller. After that you can ask Alexa to search for new devices and you should find the device "star".
 
 ## How it works
 When you command Alexa "Open star to 20%", then the function `deviceChanged(brightness)` is executed, where the 20% is passed there as `brightness` of "51", since brightness value is between 0-255.
