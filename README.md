@@ -1,7 +1,7 @@
 # IKEAPS2014
 Control your IKEA PS 2014 lamp with a servo motor and Wemos d1 mini (ESP8266) via Alexa – dimmable solution 💡
 
-The year is 2021 and I finally managed to put my Ikea hack online. Of course, there are already countless hacks to be found on the internet. The special thing about this tutorial is that I set myself a goal: easy to replicate, easily replaceable and most importantly, the lamp not only just opens and closes; It is dimmable! You can open the lamp for example 20% or 80%.
+The year is 2021 and I finally managed to put my Ikea hack online. Of course, there are already countless hacks to be found on the internet. The special thing about this tutorial is that I set myself a goal: easy to replicate, easily replaceable and most importantly, the lamp not only just opens and closes; It is dimmable! You can open the lamp for example 20% or 80% via Alexa.
 In the end, I only use the ESP8266 and a servo with an encoder, but more details will follow after the short animation of the working lamp:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/8758907/120012386-b6c66680-bfdf-11eb-8f2e-1126270ea012.gif" width="800" align="center">
